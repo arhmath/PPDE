@@ -1,0 +1,14 @@
+Data disimpan oleh: 23106050008
+Waktu penyimpanan: 2025-09-15 10:59:42
+--------------------------------------------------
+BIODATA TERSIMPAN:
+Diinput oleh: 23106050008
+
+Nama: Arham Athillah
+NIM: 23106050008
+Jurusan: Informatika
+Alamat: Kalimantan Timur, Kutai Kartanegara
+Jenis Kelamin: Pria
+Email: 23106050008@student.uin-suka.ac.id
+Telepon: 089630406270
+Tanggal Lahir: 13/04/2004
